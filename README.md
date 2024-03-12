@@ -1,4 +1,4 @@
-Посмотреть реализацию можно на [Github Pages]()
+Посмотреть реализацию можно на [Github Pages](https://george-avsa.github.io/selsup-test-task/)
 
 ### Запуск локально
 1. Склонировать или скачать архив
