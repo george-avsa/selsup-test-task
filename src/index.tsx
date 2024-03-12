@@ -1,9 +1,16 @@
 import React, { Component } from 'react';
+import ReactDOM from 'react-dom/client';
+import './style.css';
+import App from './App';
 
-export default class index extends Component {
+export default class RootComponent extends Component {
   render() {
     return (
-      <div>index</div>
+      <App/>
     )
   }
-}
+};
+
+const root = ReactDOM.createRoot(document.getElementById('root') as Element);
+
+root.render(<RootComponent />);
