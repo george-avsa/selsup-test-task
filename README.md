@@ -1,4 +1,4 @@
-The project is available at [Github Pages](https://george-asda.github.io/setup-test-task /)
+The project is available at [Github Pages](https://george-asda.github.io/setup-test-task/)
 
 Test task for selsup.
 
