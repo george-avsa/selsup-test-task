@@ -1,3 +1,7 @@
+The project is available at [Github Pages](https://george-asda.github.io/setup-test-task /)
+
+Test task for selsup.
+
 Посмотреть реализацию можно на [Github Pages](https://george-avsa.github.io/selsup-test-task/)
 
 ### Запуск локально
